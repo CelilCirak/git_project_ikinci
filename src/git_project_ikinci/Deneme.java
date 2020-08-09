@@ -7,6 +7,7 @@ public class Deneme {
 		System.out.println("Ikinci git projem");
 		System.out.println("Ikinci satir kodu");
 		System.out.println("GitHub da yaptigim degisiklik");
+		System.out.println("Cakisma");
 
 	}
 
